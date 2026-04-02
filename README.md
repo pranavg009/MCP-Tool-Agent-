@@ -1,4 +1,4 @@
-# 🔧 AI Agent with Tool Use (MCP) using Groq LLM
+# 🔧 MCP Tool Agent Build using Groq LLM
 
 A production ready AI agent system that integrates multiple real world tools such as web search, webpage extraction, file operations, and text summarization using the Model Context Protocol (MCP) paradigm.
 
